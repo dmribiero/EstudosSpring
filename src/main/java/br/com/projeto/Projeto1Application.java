@@ -1,4 +1,4 @@
-package br.com.projeto1;
+package br.com.projeto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

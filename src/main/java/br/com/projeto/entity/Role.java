@@ -1,4 +1,4 @@
-package br.com.projeto1.entity;
+package br.com.projeto.entity;
 
 import javax.persistence.*;
 
